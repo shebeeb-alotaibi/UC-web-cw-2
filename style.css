@@ -1,0 +1,17 @@
+div/{
+    background:#DDD;
+    padding:10px;
+    margin:10px;
+
+    border:1px soild #f00
+}
+.card {
+    width: 500px;
+    background-color: blue;
+    text-align: center;
+}
+
+#dish-name {
+
+color: #ffffff;
+}
